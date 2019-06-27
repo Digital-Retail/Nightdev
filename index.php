@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 
 <html lang="ru">
@@ -6,7 +6,7 @@
 
 		<title>Команда NightDev</title>
 		<meta charset="utf-8" />
-               <meta name="description" content="Мы сделаем простые сайты, используя современный технологии и красивый дизайн.">
+               <meta name="description" content="Мы делаем сайты, используя современный технологии и красивый дизайн">
                  <base href="nightdev.ru" />
 
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
@@ -74,9 +74,10 @@
 
 						<!-- Work -->
 							<article id="people">
-								<h2 class="major">Команда</h2>
 
-								<p>Мы все разные и каждый увлечен своими технологиями, но мы верим что вместе можем реализовать, что-то крутое </p>
+								
+								<p>Мы все разные и каждый увлечен своими технологиями, но мы верим, что вместе мы сможем реализовать что-то крутое! </p>
+								
 
 							</article>
 
