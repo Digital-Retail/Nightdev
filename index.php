@@ -8,7 +8,7 @@
 		<meta charset="utf-8" />
                <meta name="description" content="Мы сделаем простые сайты, используя современный технологии и красивый дизайн.">
                  <base href="nightdev.ru" />
-                
+
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 <meta name="yandex-verification" content="0cdd224cd2a780e5" />
 <meta name="wot-verification" content="5a99238ff0795b22f7a2"/>
@@ -49,7 +49,7 @@
 								<li><a  itemprop="url"href="/#people">Команда</a></li>
 								<li><a  itemprop="url"href="/#signin">Вступить</a></li>
 								<li><a itemprop="url"  href="/login">Войти</a></li>
-								
+
 							</ul>
 						</nav>
 					</header>
@@ -60,10 +60,10 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Миссия</h2>
-								
+
 								<p>Мы верим в то, что учиться вместе веселее и продуктивнне.</p>
 								<h3>Присоединяйся к нам!</h3>
-							
+
 
 										<nav class="bottom-nav">
 
@@ -75,29 +75,29 @@
 						<!-- Work -->
 							<article id="people">
 								<h2 class="major">Команда</h2>
-								
+
 								<p>Мы все разные и каждый увлечен своими технологиями, но мы верим что вместе можем реализовать, что-то крутое </p>
-								
+
 							</article>
 
 						<!-- About -->
 							<article id="signin">
 								<h2 class="major">Вступить в команду</h2>
-						<div id="result_form"></div> 
+						<div id="result_form"></div>
 								<p class="about-us">О целях проекта рассказывать можно долго, просто отправь заявку и мы всё расскажем)</p>
 								<form method="post" id="signin_form" action="/">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Ваше имя</label>
-											<input required type="text"  name="contact_name" size="30" minlength="2" value="" id="name" />
+											<input required type="text"  name="author" size="30" minlength="2" value="" id="name" />
 										</div>
 										<div class="field half">
 											<label for="email">Instagram</label>
-											<input required type="text" name="contact_insta" size="30"  value="" id="email" />
+											<input required type="text" name="insta" size="30"  value="" id="email" />
 										</div>
 										<div class="field">
 											<label for="message">Раскажите о себе</label>
-											<textarea id="message" name="contact_message" placeholder="Краткость сетстра таланта" cols="70" rows="4">  </textarea>
+											<textarea id="message" name="text" placeholder="Краткость сетстра таланта" cols="70" rows="4">  </textarea>
 										</div>
 									</div>
 									<ul class="actions">
@@ -144,7 +144,7 @@
 							</article>
 
 						<!-- Elements -->
-						
+
 
 					</div>
 
